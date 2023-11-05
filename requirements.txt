@@ -140,7 +140,6 @@ whitenoise==2.0.6
 wrapt==1.11.2
 xdot==1.0
 zipp==3.4.1
-wrapt==1.16.0rc1
 WTForms==3.0.0
 xdot==1.0
 zipp==3.15.0
