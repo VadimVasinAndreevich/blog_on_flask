@@ -35,7 +35,7 @@ django-summernote==0.8.20.0
 dnspython==2.3.0
 docutils==0.20.1
 dparse==0.6.4b0
-dynaconf==3.2.4
+dynaconf==3.1.11
 email-validator==2.1.0.post1
 emoji==2.8.0
 entrypoints==0.4
