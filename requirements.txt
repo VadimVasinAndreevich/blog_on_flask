@@ -87,7 +87,7 @@ pyparsing==2.4.7
 pypiwin32==223
 PyQt5==5.11.3
 PyQt5-sip==4.19.17
-pyqt5-tools==5.11.3.1.4
+pyqt5-tools==5.14.0.1.7
 pyTelegramBotAPI==3.6.6
 python-box==3.4.2
 python-dotenv==0.10.3
