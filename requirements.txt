@@ -162,7 +162,7 @@ values==2020.12.3
 virtualenv==20.24.6
 wcwidth==0.2.9
 webencodings==0.5.1
-Werkzeug==3.0.1
+Werkzeug==2.2.3
 whitenoise==6.0.0
 wrapt==1.16.0rc1
 WTForms==3.0.0
