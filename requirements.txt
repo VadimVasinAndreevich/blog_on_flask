@@ -1,5 +1,5 @@
 alabaster==0.7.12
-allauth-django==0.42.6
+django-allauth==0.42.6
 asgiref==3.4.1
 astroid==2.3.2
 autopep8==1.5.7
