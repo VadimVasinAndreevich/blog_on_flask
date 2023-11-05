@@ -129,7 +129,7 @@ scoring==0.0.9
 Serializer==0.2.1
 simplejson==3.19.2
 six==1.16.0
-smmap==6.0.0
+smmap==5.0.1
 smmap2==3.0.1
 snowballstemmer==2.2.0
 social-auth-app-django==5.4.0
