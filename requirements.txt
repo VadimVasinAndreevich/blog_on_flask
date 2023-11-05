@@ -1,4 +1,4 @@
-pywin32==223
+pypiwin32==223
 alabaster==0.7.13
 asgiref==3.7.2
 astroid==2.15.8
