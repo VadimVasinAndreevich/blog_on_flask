@@ -112,7 +112,7 @@ pypiwin32==223
 pyproject_hooks==1.0.0
 pyTelegramBotAPI==4.14.0
 python-box==7.0.1
-python-dotenv==1.0.0
+python-dotenv==0.21.1
 python-openid==2.2.5
 python-social-auth==0.3.6
 python3-openid==3.2.0
