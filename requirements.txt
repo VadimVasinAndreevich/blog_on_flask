@@ -1,4 +1,3 @@
-pywin==0.3.1
 alabaster==0.7.13
 asgiref==3.7.2
 astroid==2.15.8
@@ -117,6 +116,7 @@ python-openid==2.2.5
 python-social-auth==0.3.6
 python3-openid==3.2.0
 pytz==2023.3.post1
+pywin32==227
 PyYAML==6.0.1
 rabbitmq==0.2.0
 requests==2.31.0
