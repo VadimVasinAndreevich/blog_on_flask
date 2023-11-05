@@ -49,10 +49,6 @@ itsdangerous==1.1.0
 jedi==0.13.3
 Jinja2==3.0.1
 jsonpickle==2.0.0
-Kivy==1.11.1
-kivy-deps.glew-dev==0.2.0
-kivy-deps.sdl2==0.2.0
-Kivy-Garden==0.1.4
 lazy-object-proxy==1.4.2
 MarkupSafe==2.0.1
 mccabe==0.6.1
