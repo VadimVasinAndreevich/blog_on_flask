@@ -13,7 +13,7 @@ blinker==1.6.3
 bs4==0.0.1
 build==1.0.3
 certifi==2023.7.22
-cffi==1.16.0
+cffi==1.15.1
 chardet==5.2.0
 charset-normalizer==3.3.2
 Choco==1.0.5
