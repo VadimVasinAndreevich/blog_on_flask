@@ -1,4 +1,5 @@
 from datetime import datetime
+from itsdangerous import TimedJSONWebSignatureSerializer as Serializer
 from jwt import encode, decode
 from datetime import datetime, timezone, timedelta
 from flask import current_app
